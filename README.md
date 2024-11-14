@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+$> Hi, I'm Ariel Davis. 
+$> I'm a backend engineer who's currently
+trying to teach themself more about Rust and compilers.
+$>
+```
+
