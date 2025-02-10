@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```
-$> Hi, I'm Ariel Davis. 
-$> I'm a backend engineer who's currently
-trying to teach themself more about Rust and compilers.
-$>
-```
-
+Some of my current interests: 
+- Rust 🦀
+- compilers and programming languages
+- weird tabletop RPGs :) 
